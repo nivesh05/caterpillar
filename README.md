@@ -56,7 +56,7 @@ If you want to run the tests on different browsers, edit karma.conf.js.
 
 ## Disclaimer
 
-This is not an official Google product (experimental or otherwise), it is just
+This is not an official Google product but its really goodworking(experimental or otherwise), it is just
 code that happens to be owned by Google.
 
 Copyright 2016 Google Inc. All Rights Reserved.
